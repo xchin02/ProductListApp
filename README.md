@@ -7,10 +7,6 @@ Features
 - Filter products based on their warranty expiry dates (e.g. in 1 month time)
 
 ## How it looks
-<p align="center">
 ![image](https://user-images.githubusercontent.com/83194359/178147031-9c0e4cb0-c47d-4b3a-876d-91958ba4c0f1.png)
-</p>
 
-<p align="center">
 ![image](https://user-images.githubusercontent.com/83194359/178147102-30639ff0-33cd-4168-9670-59dbef5e17d3.png)
-</p>
