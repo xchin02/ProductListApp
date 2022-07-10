@@ -1,0 +1,31 @@
+<resources>
+    <string-array name = "spinnerItems">
+        <item>All products and their warranty expiry dates</item>
+        <item>Product\'s warranty expiry date in 1 month time</item>
+        <item>Product\'s warranty expiry date in 3 months time</item>
+        <item>Product\'s warranty expiry date in 6 months time</item>
+    </string-array>
+    <string-array name = "spinnerOption">
+        <item>Add a product and its warranty expiry date</item>
+        <item>Update a product and its warranty expiry date</item>
+    </string-array>
+    <string name="app_name">testPractical2</string>
+    <string name="welcome_to_lister">Welcome to List It!</string>
+    <string name="description">Description</string>
+    <string name="desc">Easy to maintain your list of products and their warranty expiry dates.</string>
+    <string name="feature">1. Add a new product and its warranty expiry date\n 2. Update existing product and its warranty expiry date\n3. Delete an existing product from the list\n4. Search for specific products based on warranty expiry date</string>
+    <string name="featureTitle">Features</string>
+    <string name="linkWebsite">Website Link (Click Image)</string>
+    <string name="click_to_start_listing">Click to start listing</string>
+    <string name="title">List It!</string>
+    <string name="enter_the_name_of_the_product">Enter name of the product</string>
+    <string name="enter_the_products_warranty_expiry_date">Enter product\'s warranty expiry date</string>
+    <string name="add_new_product">Add new product</string>
+    <string name="update_product">Update product</string>
+    <string name="delete_product">Delete product</string>
+    <string name="enter_the_index_number">Enter index number (Start from 0)</string>
+    <string name="press_and_hold_on_the_product_in_the_list_to_delete">*Press and hold on the product in the list to delete</string>
+    <string name="enter_updated_name_of_product">Enter updated name of product</string>
+    <string name="updated_warranty_expiry_date">Enter updated product\'s warranty expiry date</string>
+    <string name="index_of_updated_product">Enter index of product (Start from 0)</string>
+</resources>
